@@ -1,0 +1,2 @@
+DB_PATH = "tasks.db"
+MAX_CONCURRENT_TASKS = 2
